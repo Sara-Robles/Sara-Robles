@@ -1,6 +1,6 @@
 # 👋 Sejam Bem-vindos! 
 
-Me chamo **Sara Robles Barbosa**, tenho 22 anos e sou desenvolvedora apaixonada por tecnologia 🚀  
+Me chamo **Sara Robles Barbosa**, tenho 22 anos e sou uma desenvolvedora apaixonada por tecnologia 🚀  
 
 - 🎓 Formanda em **Análise e Desenvolvimento de Sistemas**  
 - 👩‍💻 Focada em **Back-end**, com experiência em **Front-end**  
