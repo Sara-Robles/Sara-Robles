@@ -37,8 +37,8 @@ Me chamo **Sara Robles Barbosa**, tenho 22 anos e sou desenvolvedora apaixonada 
 ---
 
 ## 📊 GitHub Stats
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=radical)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sara-robles&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sara-robles&layout=compact&theme=radical)
 
 ---
 
