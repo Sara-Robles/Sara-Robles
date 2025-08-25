@@ -11,7 +11,8 @@ Me chamo Sara, tenho 22 anos e sou desenvolvedora
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dracula)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical)
+
 
 ## 📫 Contato
 💼 [LinkedIn](seu-link) | 📧 seuemail@email.com
