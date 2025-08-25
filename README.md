@@ -42,5 +42,5 @@ Me chamo **Sara Robles Barbosa**, tenho 22 anos e sou desenvolvedora apaixonada 
 ---
 
 ## 📫 Contato
-- 📧 [Email](mailto:sararoblesbarbosa2@gmail.com)  
+- 📧 [sararoblesbarbosa2@gmail.com](mailto:sararoblesbarbosa2@gmail.com)  
 - 📱 (11) 99692-8411
